@@ -43,3 +43,7 @@ The core principle of this project is to avoid using any external assets. All mo
 ## Coding
 - Bunny Movment Controller
 ![](Assets/IMGS/BunnyController.JPG)
+
+## TV Controller (Switch on and off Video - increase /decrease Sound)
+- Bunny Movment Controller
+![](Assets/IMGS/TV.JPG)
