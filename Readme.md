@@ -36,14 +36,20 @@ The core principle of this project is to avoid using any external assets. All mo
 - Bunny
 ![](Assets/IMGS/Bunny.JPG)
 
+
 ## Shaders
 - Chocolate Shader For Rivers and Cake ChocolateFall
 ![](Assets/IMGS/Shader.JPG)
+
 
 ## Coding
 - Bunny Movment Controller
 ![](Assets/IMGS/BunnyController.JPG)
 
-## TV Controller (Switch on and off Video - increase /decrease Sound)
-- Bunny Movment Controller
+
+- TV Controller (Switch on and off Video - increase /decrease Sound)
 ![](Assets/IMGS/TV.JPG)
+
+
+- Ship Modling & Movment Controller 
+![](Assets/IMGS/chip.JPG)
