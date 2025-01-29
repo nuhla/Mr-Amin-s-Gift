@@ -21,4 +21,4 @@ Thank you, Mmin, for sharing our Unity project! It was a great learning experien
 ## Modling 
 
 ### Main Castle 
-![](Assets/IMGS/2 (2).JPG)
+![](Assets/IMGS/Castle.JPG)
