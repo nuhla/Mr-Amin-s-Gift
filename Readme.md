@@ -36,6 +36,10 @@ The core principle of this project is to avoid using any external assets. All mo
 - Bunny
 ![](Assets/IMGS/Bunny.JPG)
 
+## Shaders
+- Chocolate Shader For Rivers and Cake ChocolateFall
+![](Assets/IMGS/Shader.JPG)
+
 ## Coding
 - Bunny Movment Controller
 ![](Assets/IMGS/BunnyController.JPG)
