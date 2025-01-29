@@ -34,4 +34,4 @@ The core principle of this project is to avoid using any external assets. All mo
 
 
 - Bunny
-![](Assets/IMGS/4.JPG)
+![](Assets/IMGS/Bunny.JPG)
