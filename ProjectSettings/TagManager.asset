@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rozan
+  - Lemara
+  - AbdAlrauf
+  - Abdelrauf
+  - Ahmed
+  - Amjad
+  - Aws
+  - Ibraheem
+  - Israa
+  - Karim
+  - Layla
+  - Lina
+  - Marah
+  - Mariam
+  - MohammedAbed
+  - MohammedHmaida
+  - Nahla
+  - Rabee
+  - Raed
+  - Reem
+  - Saba
+  - Walaa
+  - AbdNasser
+  - PointerCanvas
+  - Mohammed
+  - PointerImg
+  - Abdallah
+  - AhmedQudaih
+  - Amna
+  - Aya
+  - Fadel
+  - Haya
+  - Lara
+  - MohammadAlshawwa
+  - Nesma
+  - Omar
+  - Saja
+  - Yasmen
+  - MarahMoh
+  - Mahmoud
+  - Gum
+  - Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Interactables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
