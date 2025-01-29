@@ -9,7 +9,7 @@ Thank you, Mmin, for sharing our Unity project! It was a great learning experien
 
 
 # Main Role 
-C# developer , Game Designer , Artist 
+### C# developer , Game Designer , Artist 
 
 
 # Short Gameplay vedio
