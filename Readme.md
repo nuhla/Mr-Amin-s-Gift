@@ -15,3 +15,10 @@ Thank you, Mmin, for sharing our Unity project! It was a great learning experien
 # Short Gameplay vedio
 
 [![](Assets/IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
+
+# things i did in the project
+
+## Modling 
+
+### Main Castle 
+![](Assets/IMGS/2 (2).JPG)
