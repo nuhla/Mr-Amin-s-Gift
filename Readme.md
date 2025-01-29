@@ -14,4 +14,4 @@ C# developer , Game Designer , Artist
 
 # Short Gameplay vedio
 
-[!(Assets/IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
+[![](Assets/IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
