@@ -16,17 +16,16 @@ Thank you, Mmin, for sharing our Unity project! It was a great learning experien
 
 [![](Assets/IMGS/1.jpg)](https://youtu.be/OoRil-WJMUE)
 
-# things i did in the project
+# What did i do
 
 ## Modling 
 
-### Main Castle 
+- Main Castle 
 ![](Assets/IMGS/Castle.JPG)
 
 
-### Biscuit Watchtower
+- Biscuit Watchtower
 ![](Assets/IMGS/3.JPG)
 
-
-### Train station
+- Train station
 ![](Assets/IMGS/2.JPG)
