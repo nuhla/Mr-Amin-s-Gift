@@ -28,5 +28,10 @@ The core principle of this project is to avoid using any external assets. All mo
 - Biscuit Watchtower
 ![](Assets/IMGS/3.JPG)
 
+
 - Train station
 ![](Assets/IMGS/2.JPG)
+
+
+- Bunny
+![](Assets/IMGS/4.JPG)
